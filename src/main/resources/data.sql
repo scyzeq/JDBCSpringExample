@@ -1,0 +1,16 @@
+insert into person(first_Name, last_Name) values('Siva','Ssad');
+insert into person(first_Name, last_Name) values('Prasad','Profan');
+insert into person(first_Name, last_Name) values('Reddy','Redgard');
+insert into person(first_Name, last_Name) values('Rev', 'Dio');
+insert into person(id, first_Name, last_Name) values(10001, 'Ranga', 'E1234567');
+insert into person(id, first_Name, last_Name) values(10002, 'Range', 'Divide');
+insert into product(person_id, product_Name, price) values (1, 'Milk', 2.32);
+insert into product(person_id, product_Name, price) values (1, 'Beer', 6);
+insert into product(person_id, product_Name, price) values (1, 'Beer', 8);
+insert into product(person_id, product_Name, price) values (1, 'Beer', 3);
+insert into product(person_id, product_Name, price) values (3, 'Beer', 18);
+insert into product(person_id, product_Name, price) values (2, 'Beer', 3.68);
+insert into product(person_id, product_Name, price) values (2, 'Bread', 6);
+insert into product(person_id, product_Name, price) values (2, 'Garlic', 1);
+insert into product(person_id, product_Name, price) values (2, 'Ham', 10);
+insert into product(person_id, product_Name, price) values (2, 'Destil', 15);
